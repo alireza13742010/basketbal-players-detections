@@ -16,3 +16,5 @@ Detected Objects
 ![val_batch0_pred](https://github.com/user-attachments/assets/53db876c-da1b-4eb2-b5c5-d2391e5711e7)
 ![val_batch1_labels](https://github.com/user-attachments/assets/60a867d3-5ecc-461c-b9d2-ad34ca013f14)
 ![val_batch1_pred](https://github.com/user-attachments/assets/d5a6cad3-2599-42b3-97b1-543864b68211)
+# saved weights
+To get access to the trained model please contact us at: alireza.tavakola@ut.ac.ir
